@@ -1,7 +1,8 @@
 header{
-    background-image: url(./images/doc9.jpg);
+/*     background-image: url(./images/doc9.jpg); */
+    ackground-color: #e6f0f7;
     background-size: cover;
-    height:200px;
+    height:150px;
     color: rgb(245, 243, 243);
     padding: 50px;
     text-align:center;
