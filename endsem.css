@@ -176,7 +176,7 @@ img{
 }
 .call-button {
     background-color: #1d4db3; /* Initial blue background */
-    color: #fff; /* Initial white text */
+    color: white; /* Initial white text */
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 14px;
